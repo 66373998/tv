@@ -63,7 +63,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git reset --soft $(git rev-list --max-parents=0 HEAD)
           git reset HEAD -- .
-          git add -- README.md output/
+          git add -- README.md output/ .github/
           git commit -m "Github Action Auto Updated"
           git push origin HEAD:master --force
 
