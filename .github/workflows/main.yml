@@ -2,7 +2,9 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    # 北京时间 周六 12:00 = UTC 周六 04:00
+    # 格式：分 时 日 月 周
+    - cron: '0 4 * * 6'
   workflow_dispatch:
     branches:
       - master
@@ -85,6 +87,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add output/** version.json || true
           if ! git diff --staged --quiet; then
-            git commit -m "Github Action Auto Updated"
+            git commit -m "Github Action Auto Updated: Weekly update on Saturday"
             git push
           fi
