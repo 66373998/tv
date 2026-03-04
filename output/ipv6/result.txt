@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-04 06:24:27,https://hls-gateway.vpstv.net/streams/476879.m3u8
+2026-03-04 11:57:15,https://hls-gateway.vpstv.net/streams/476879.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
@@ -1288,6 +1288,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
+延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 
