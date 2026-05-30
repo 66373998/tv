@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-23 14:40:50,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-05-30 14:54:08,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -540,10 +540,6 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-3.m3u8
-云南卫视,http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
-云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
-云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
-云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-3.m3u8
 
 ☘️广东频道,#genre#
 深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
@@ -639,6 +635,8 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi-2.m3u8
 深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi-6.m3u8
 深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi.php
+深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi-1-1.m3u8
+深圳都市,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=goM0o9&tk=zUr4K92Dl6kh
 深圳电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szdsj
 深圳财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
 深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
@@ -647,6 +645,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 
 ☘️浙江频道,#genre#
 浙江卫视4K,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=02
@@ -838,6 +837,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=1d653a4080d206d7b4b399c6a7606355&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260516053937&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.171.74&SecurityKey=20260516053937&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c9036845f793ec4b3d44b18c2d62822d&ddCalcu=dc29v20a83l26a68d425cf8719b34e4cd43b&sv=10004&ct=android
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=ce393723083b8d168b9115eb94c6ba51&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260523054612&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.63.22&SecurityKey=20260523054612&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=61a15ffef6c181fcb1bb2ce8036f1197&ddCalcu=7691v1aa11lf5a6f3f0e8fe6cc21b8b11fbc&sv=10004&ct=android
+宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=e12d262b69b29ea28ee16914d2fccd41&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260530060202&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.188.45&SecurityKey=20260530060202&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=270aa91a7ff3809298e16e88e7449b6a&ddCalcu=a267vb0a9al4aa4971ea878fef6318e08992&sv=10004&ct=android
 宿迁公共,http://iptv.666230.xyz/iptv/jsyd.php/G_SQGG
 常州公共,http://iptv.666230.xyz/iptv/jsyd.php/jsczgonggong
 常州生活,http://iptv.666230.xyz/iptv/jsyd.php/jsczshenghuo
@@ -1167,6 +1167,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 郸城新闻综合,https://t.freetv.fun/live/dan-cheng-xin-wen-zong-he.m3u8
+郸城新闻综合,https://t.freetv.fun/live/dan-cheng-xin-wen-zong-he-1.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
@@ -1306,6 +1307,8 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州新闻综合,rtmp://live.ahsz.tv/video?token=5ee5b1c3db702657f412ed18d270cdb7/s10001-szzh
+宿州新闻综合,https://t.freetv.fun/live/su-zhou-xin-wen-zong-he-1-3.m3u8
+宿州新闻综合,https://t.freetv.fun/live/su-zhou-xin-wen-zong-he-2.m3u8
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
@@ -1373,16 +1376,16 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 NewTV惊悚悬疑,http://iptv.666230.xyz/iptv/bjyd.php/7013
 NewTV惊悚悬疑,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie
+纬来电影,http://live.catvod.com/smart.php?id=videolandmovie
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=a76bdc035b650a1c05ec1f7fb9f26ae2f5af7dd30a77937811b00e06d85b6954%3A1760491003%3ANTIuMTUwLjI5Ljk4
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=4ef1b71d966e768b749843d150246e8f77aa83b1d79878100de8f8b3431e0b59%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
 纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,https://tv.iill.top/x/wldy
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-纬来电影,https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
-纬来电影,https://hls.iill.top/api/wldy/index.m3u8
-纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying.php
-纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-1-1.php
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -1400,6 +1403,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-1.php
 靖天戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-1.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 经典电影,https://tv.iill.top/4gtv/201
 天映经典,https://hls-gateway.vpstv.net/streams/709488.m3u8
