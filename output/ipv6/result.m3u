@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-08-01 14:36:19
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-08-08 13:04:16
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -647,6 +647,8 @@ http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/nxjj/51/20251225/index.m3u8?
 http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260718120235&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=171.8.79.254&SecurityKey=20260718120235&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38325ccea01f30d1f8a1f07f465672a1&sv=10004&ct=android
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260725120210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=218.28.233.106&SecurityKey=20260725120210&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3a33b1e6ad35cd68d5d0a004a3e87c9&sv=10004&ct=android
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260808060429&Channel_ID=0116_2600034600-99000-201600010087387&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=36.155.23.197&SecurityKey=20260808060429&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=382a0beb252409027e1785750845d783&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d6579896842e6b24573b25d6913173e
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
