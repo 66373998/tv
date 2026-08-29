@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-08-22 12:44:10
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-08-29 19:02:05
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -501,6 +501,8 @@ https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 https://gd202.tv1288.xyz/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/第一剧场.png" group-title="💰央视付费频道",第一剧场
 https://ed6e-f4b7-af48-6d55.kylintv.tv/live/chinamovie_iphone.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/第一剧场.png" group-title="💰央视付费频道",第一剧场
+https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云剧场.png" group-title="💰央视付费频道",风云剧场
 https://hls-gateway.vpstv.net/streams/708861.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云剧场.png" group-title="💰央视付费频道",风云剧场
@@ -1665,6 +1667,10 @@ http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8
 http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=7b5b49ad757ce40ae38b00e964dcd804&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260718052055&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.103.188.159&SecurityKey=20260718052055&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1ec758850e5627b9d0008e6870052399&ddCalcu=919ev3ca27l55a080875806ee58602070bd9&sv=10004&ct=android
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260725040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260725040214&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=24edd6fd2e3389b0e080c8f575d9272a&sv=10004&ct=android
+#EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
+https://live.chinacert.cftest5.cn/cnmg/live/955227996
+#EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
+https://t.freetv.fun/live/yi-xing-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="宿迁公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宿迁公共.png" group-title="☘️江苏频道",宿迁公共
 http://iptv.666230.xyz/iptv/jsyd.php/G_SQGG
 #EXTINF:-1 tvg-name="常州公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/常州公共.png" group-title="☘️江苏频道",常州公共
@@ -2151,6 +2157,8 @@ https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 https://t.freetv.fun/live/fu-jian-lu-you.m3u8
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/福建旅游.png" group-title="☘️福建频道",福建旅游
 https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
+#EXTINF:-1 tvg-name="福建海峡卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/福建海峡卫视.png" group-title="☘️福建频道",福建海峡卫视
+http://r.jdshipin.com/WtYt3
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南新闻.png" group-title="☘️海南频道",海南新闻
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=xwpd
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南自贸.png" group-title="☘️海南频道",海南自贸
@@ -2751,8 +2759,6 @@ https://hls-gateway.vpstv.net/streams/476997.m3u8
 https://smt.858.qzz.io/Smart.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片
 http://php.666230.xyz/smt.php?id=ettvwestern
-#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片
-https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片
 https://tv.iill.top/x/dsyp
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片

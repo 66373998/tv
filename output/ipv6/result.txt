@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-22 12:44:10,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-08-29 19:02:05,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -254,6 +254,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 第一剧场,https://gd202.tv1288.xyz/tsfile/live/1047_1.m3u8
 第一剧场,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/chinamovie_iphone.m3u8
+第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
 风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
@@ -850,6 +851,8 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 宜兴新闻,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260710040233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260710040233&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9f3b0d684e4e01505a59d4ea6c5a04e3&sv=10004&ct=android
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=7b5b49ad757ce40ae38b00e964dcd804&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260718052055&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.103.188.159&SecurityKey=20260718052055&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1ec758850e5627b9d0008e6870052399&ddCalcu=919ev3ca27l55a080875806ee58602070bd9&sv=10004&ct=android
 宜兴新闻,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260725040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260725040214&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=24edd6fd2e3389b0e080c8f575d9272a&sv=10004&ct=android
+宜兴新闻,https://live.chinacert.cftest5.cn/cnmg/live/955227996
+宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-zong-he-1.m3u8
 宿迁公共,http://iptv.666230.xyz/iptv/jsyd.php/G_SQGG
 常州公共,http://iptv.666230.xyz/iptv/jsyd.php/jsczgonggong
 常州生活,http://iptv.666230.xyz/iptv/jsyd.php/jsczshenghuo
@@ -1109,6 +1112,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
+福建海峡卫视,http://r.jdshipin.com/WtYt3
 
 ☘️海南频道,#genre#
 海南新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=xwpd
@@ -1441,7 +1445,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森洋片,https://tv.iill.top/x/dsyp
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
