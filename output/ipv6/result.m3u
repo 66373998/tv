@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-09-19 16:45:07
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-09-26 17:19:20
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -2143,6 +2143,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisd
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251024080056953be86c14d64c758cd4dbf06a58c942&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251024080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20251024080056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d18ceaa4887dd90437843aedd252e8e7&ddCalcu=7de1e882ec62e05a2ad4d8e8a73d4d897034
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
+http://fn.gcl.de5.net:5908/gsh950428/956909356
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云霄综合.png" group-title="☘️福建频道",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云霄综合.png" group-title="☘️福建频道",云霄综合
@@ -2674,6 +2676,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
+https://live.catvod.com/catvod_com.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
+http://live.catvod.com/smart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
+https://live.catvod.com/live.php?id=videolandmovie&token=a76bdc035b650a1c05ec1f7fb9f26ae2f5af7dd30a77937811b00e06d85b6954%3A1760491003%3ANTIuMTUwLjI5Ljk4
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
+https://live.catvod.com/live.php?id=videolandmovie&token=4ef1b71d966e768b749843d150246e8f77aa83b1d79878100de8f8b3431e0b59%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://smt.858.qzz.io/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
 http://php.666230.xyz/smt.php?id=videolandmovie
@@ -2685,14 +2695,6 @@ https://tv.iill.top/x/wldy
 https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
-https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
-https://hls.iill.top/api/wldy/index.m3u8
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
-https://t.freetv.fun/live/wei-lai-dian-ying.php
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
-https://t.freetv.fun/live/wei-lai-dian-ying-1-1.php
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天映画.png" group-title="🎬电影频道",靖天映画
 https://hls-gateway.vpstv.net/streams/476302.m3u8
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天映画.png" group-title="🎬电影频道",靖天映画
@@ -2769,6 +2771,8 @@ https://hls-gateway.vpstv.net/streams/476997.m3u8
 https://smt.858.qzz.io/Smart.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片
 http://php.666230.xyz/smt.php?id=ettvwestern
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片
+https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片
 https://tv.iill.top/x/dsyp
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬电影频道",东森洋片
