@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-21 20:19:40,https://hls-gateway.vpstv.net/streams/476879.m3u8
+2026-11-28 20:53:10,https://hls-gateway.vpstv.net/streams/476879.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
@@ -553,7 +553,6 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-3.m3u8
 
 ☘️广东频道,#genre#
-深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
 广东珠江,https://hk.188766.xyz/?migutoken=75d82ac4fd56e5ed0c7ae444fb817bc4&id=gd_gdzj&type=sz
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -686,7 +685,6 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=12
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=10
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-2.m3u8
@@ -751,10 +749,8 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 北京卫视4K,http://mgsp-tx2.live.miguvideo.com:8088/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260214160234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.28.233.106&SecurityKey=20260214160234&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6c1e600a26241ce333f2d6e31b5e061c&sv=10004&ct=android
 北京卫视4K,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260215040207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.28.233.106&SecurityKey=20260215040207&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=828107124e5ef8a389e4f7556feea07e&sv=10004&ct=android
 北京卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
-北京新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
 北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
-北京财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
 北京体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
 卡酷动画,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
 
@@ -1452,7 +1448,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森洋片,https://tv.iill.top/x/dsyp
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
